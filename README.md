@@ -3,7 +3,8 @@
   <br> <strong>Welcome to my portfolio!</strong> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Rafael Diniz, Web Developer :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHF4bGl5dWI4YTM5cWJpa3BvOXVpNm13ZmI1eHl3Z3NiNmFtMWE0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" alt="Coder GIF" width="500">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2MzdjBwdHVoZnI2bjNjdHd5bGZlczl2Z29hMmpkajkyZXY2OG1qdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coder GIF" width="480" height="480" frameBorder="0">
+    
  </abc>
 </h2> 
 
@@ -34,9 +35,17 @@
   - 🌱 Studying Next.js and React.
 </div>
 
+<div align="left">
+  - 🎓 I am in the final semester of the analysis and systems development college program.
+</div>
+
+<div align="left">
+  - 🇧🇷 I am Brazilian.
+</div>
+
 <h2 align="left">:heart: Let's get connected:</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/faelds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:rafael.diniz.s@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:rafael.diniz.s@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
